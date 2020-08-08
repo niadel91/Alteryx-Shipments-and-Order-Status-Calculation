@@ -1,4 +1,4 @@
-# Order Status Calculation
+# Shipments and Order Status Calculation
 
 
 We have 2 input files: Open Orders and Shipments.
